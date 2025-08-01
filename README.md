@@ -370,3 +370,7 @@ sudo ln -s /usr/bin/python3 /usr/bin/python
 
 ### 运行benchmark
 ![250722-image28](/assets/250722-image28.png)
+
+
+# 备注：
+参考脚本见`YCSB-benchmark\run_ycsb_workloads-rocksdb.sh`, `YCSB-benchmark\run_ycsb_workloads-rocksdb.sh`.
