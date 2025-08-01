@@ -373,4 +373,4 @@ sudo ln -s /usr/bin/python3 /usr/bin/python
 
 
 # 备注：
-参考脚本见`YCSB-benchmark\run_ycsb_workloads-rocksdb.sh`, `YCSB-benchmark\run_ycsb_workloads-rocksdb.sh`.
+参考脚本见`YCSB-benchmark\run_ycsb_workloads-rocksdb.sh`(`YCSB-benchmark\run_ycsb_workloads-rocksdb_修改参数.sh`), `YCSB-benchmark\run_ycsb_workloads.sh`.
